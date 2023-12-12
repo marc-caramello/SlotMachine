@@ -1,5 +1,5 @@
 # SlotMachine  
-I got this project from here, and I made a few changes:  
+I got this project from here and added a few features:  
   •https://github.com/hhamzak/SlotMachine  
   
 Features that I added:  
