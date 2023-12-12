@@ -10,4 +10,4 @@ Features that I added:
   •The "Screen.SetResolution(800, 600, false)" function, which fixed the error where the game would only go into full-screen mode  
   •The Konami logo in the bottom-left, which helps fill in some of white space  
   
-![Ekran Alıntısı](https://user-images.githubusercontent.com/29314637/74607036-4d6e5d00-50e6-11ea-81dd-8713ef0cbd99.PNG)
+![readmeImage](readmeImage.png)  
